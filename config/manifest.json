@@ -1,0 +1,20 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "HBGZ ClassIsland Centralised Control Center(HCIC)",
+    "ClassPlanSource": {
+        "Value": "./classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "./timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "./subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "./policy.json",
+        "Version": 1
+    }
+}

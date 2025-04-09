@@ -1,0 +1,994 @@
+{
+    "Name": "",
+    "TimeLayouts": {
+        "ffd6c2f2-9184-4468-96d4-a7e3e1abe965": {
+            "Name": "\u65B0\u65F6\u95F4\u8868",
+            "Layouts": [
+                {
+                    "StartSecond": "2025-03-04T07:40:00+08:00",
+                    "EndSecond": "2025-03-04T08:10:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T08:10:00+08:00",
+                    "EndSecond": "2025-03-04T08:20:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T08:20:00+08:00",
+                    "EndSecond": "2025-03-04T09:00:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T09:00:00+08:00",
+                    "EndSecond": "2025-03-04T09:10:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T09:10:00+08:00",
+                    "EndSecond": "2025-03-04T09:50:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T09:50:00+08:00",
+                    "EndSecond": "2025-03-04T10:05:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T10:05:00+08:00",
+                    "EndSecond": "2025-03-04T10:45:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T10:45:00+08:00",
+                    "EndSecond": "2025-03-04T10:55:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T10:55:00+08:00",
+                    "EndSecond": "2025-03-04T11:35:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T11:35:00+08:00",
+                    "EndSecond": "2025-03-04T11:35:00+08:00",
+                    "TimeType": 3,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": {
+                        "IsEnabled": true,
+                        "Name": "\u65B0\u884C\u52A8",
+                        "Guid": "773a64df-55aa-4d40-a6f5-c1de8b5b17f1",
+                        "IsOn": false,
+                        "Actions": [
+                            {
+                                "Id": "classisland.showNotification",
+                                "Settings": {
+                                    "Content": "\u4ECA\u5929\u4E0A\u5348\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                                    "Mask": "\u4E0A\u5348\u8BFE\u7A0B\u5DF2\u7ED3\u675F",
+                                    "IsContentSpeechEnabled": false,
+                                    "IsMaskSpeechEnabled": false,
+                                    "IsAdvancedSettingsEnabled": true,
+                                    "IsSoundEffectEnabled": true,
+                                    "IsTopmostEnabled": true,
+                                    "CustomSoundEffectPath": "",
+                                    "IsEffectEnabled": true,
+                                    "MaskDurationSeconds": 5,
+                                    "ContentDurationSeconds": 10,
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            }
+                        ],
+                        "IsRevertEnabled": true,
+                        "IsActive": false
+                    },
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T11:40:00+08:00",
+                    "EndSecond": "2025-03-04T11:40:00+08:00",
+                    "TimeType": 3,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": {
+                        "IsEnabled": true,
+                        "Name": "\u65B0\u884C\u52A8",
+                        "Guid": "4cb6981d-d7ba-4745-aefa-e82a02aea1b5",
+                        "IsOn": false,
+                        "Actions": [
+                            {
+                                "Id": "classisland.os.run",
+                                "Settings": {
+                                    "Value": "\u0022C:\\Windows\\System32\\shutdown.exe\u0022 -s -t 3",
+                                    "Args": "",
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            }
+                        ],
+                        "IsRevertEnabled": true,
+                        "IsActive": false
+                    },
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T14:10:00+08:00",
+                    "EndSecond": "2025-03-04T14:50:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T14:50:00+08:00",
+                    "EndSecond": "2025-03-04T15:00:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T15:00:00+08:00",
+                    "EndSecond": "2025-03-04T15:40:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T15:40:00+08:00",
+                    "EndSecond": "2025-03-04T15:55:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T15:55:00+08:00",
+                    "EndSecond": "2025-03-04T16:35:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T16:35:00+08:00",
+                    "EndSecond": "2025-03-04T16:45:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T16:45:00+08:00",
+                    "EndSecond": "2025-03-04T17:20:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T17:20:00+08:00",
+                    "EndSecond": "2025-03-04T17:20:00+08:00",
+                    "TimeType": 3,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": {
+                        "IsEnabled": true,
+                        "Name": "\u65B0\u884C\u52A8",
+                        "Guid": "c75c4005-22ea-4289-bf0e-1eedb907f56e",
+                        "IsOn": false,
+                        "Actions": [
+                            {
+                                "Id": "classisland.showNotification",
+                                "Settings": {
+                                    "Content": "\u4ECA\u5929\u4E0B\u5348\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                                    "Mask": "\u4ECA\u5929\u4E0B\u5348\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F",
+                                    "IsContentSpeechEnabled": false,
+                                    "IsMaskSpeechEnabled": false,
+                                    "IsAdvancedSettingsEnabled": true,
+                                    "IsSoundEffectEnabled": true,
+                                    "IsTopmostEnabled": true,
+                                    "CustomSoundEffectPath": "",
+                                    "IsEffectEnabled": true,
+                                    "MaskDurationSeconds": 5,
+                                    "ContentDurationSeconds": 10,
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            },
+                            {
+                                "Id": "classisland.os.run",
+                                "Settings": {
+                                    "Value": "\u0022C:\\Windows\\System32\\shutdown.exe\u0022 -s -t 3",
+                                    "Args": "",
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            }
+                        ],
+                        "IsRevertEnabled": true,
+                        "IsActive": false
+                    },
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T18:40:00+08:00",
+                    "EndSecond": "2025-03-04T19:20:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T19:20:00+08:00",
+                    "EndSecond": "2025-03-04T19:30:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T19:30:00+08:00",
+                    "EndSecond": "2025-03-04T20:10:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T20:10:00+08:00",
+                    "EndSecond": "2025-03-04T20:20:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T20:20:00+08:00",
+                    "EndSecond": "2025-03-04T21:00:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T21:00:00+08:00",
+                    "EndSecond": "2025-03-04T21:10:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T21:10:00+08:00",
+                    "EndSecond": "2025-03-04T21:50:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T21:50:00+08:00",
+                    "EndSecond": "2025-03-04T22:10:00+08:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T22:10:00+08:00",
+                    "EndSecond": "2025-03-04T22:40:00+08:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": null,
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2025-03-04T22:40:00+08:00",
+                    "EndSecond": "2025-03-04T22:40:00+08:00",
+                    "TimeType": 3,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "ActionSet": {
+                        "IsEnabled": true,
+                        "Name": "\u65B0\u884C\u52A8",
+                        "Guid": "8cfdbdf0-bc5d-405e-b3fe-9d19c6f2b350",
+                        "IsOn": false,
+                        "Actions": [
+                            {
+                                "Id": "classisland.showNotification",
+                                "Settings": {
+                                    "Content": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                                    "Mask": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F",
+                                    "IsContentSpeechEnabled": false,
+                                    "IsMaskSpeechEnabled": false,
+                                    "IsAdvancedSettingsEnabled": true,
+                                    "IsSoundEffectEnabled": true,
+                                    "IsTopmostEnabled": true,
+                                    "CustomSoundEffectPath": "",
+                                    "IsEffectEnabled": true,
+                                    "MaskDurationSeconds": 5,
+                                    "ContentDurationSeconds": 10,
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            },
+                            {
+                                "Id": "classisland.broadcastSignal",
+                                "Settings": {
+                                    "SignalName": "sd00",
+                                    "IsRevert": false,
+                                    "IsActive": false
+                                },
+                                "IsActive": false
+                            }
+                        ],
+                        "IsRevertEnabled": true,
+                        "IsActive": false
+                    },
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "ClassOffOverlayText": "",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                }
+            ],
+            "AttachedObjects": {
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "ExtraInfo4ShowSecondsSeconds": 0,
+                    "ScheduleSpacing": 1,
+                    "ShowCurrentLessonOnlyOnClass": false,
+                    "IsNonExactCountdownEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        }
+    },
+    "ClassPlans": {},
+    "Subjects": {}
+}

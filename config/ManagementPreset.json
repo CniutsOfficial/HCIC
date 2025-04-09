@@ -1,0 +1,5 @@
+{
+    "ManagementServerKind": 0,
+    "ManagementServer": "",
+    "ManifestUrlTemplate": "./manifest.json"
+}
