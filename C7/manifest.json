@@ -1,0 +1,20 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "HBGZ ClassIsland Centralised Control Center(HCIC)",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/{id}/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/{id}/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/{id}/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/{id}/policy.json",
+        "Version": 1
+    }
+}
