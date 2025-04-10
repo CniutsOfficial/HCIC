@@ -1,5 +1,8 @@
 {
     "DisableSettingsEditing": true,
+    "AllowExitManagement": false,
+    "DisableDebugMenu": true,
+    "DisableProfileSubjectsEditing": true,
     "IsMainWindowVisible": true,
     "IsWelcomeWindowShowed": true,
     "SettingsOverlay": {},
