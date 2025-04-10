@@ -13,6 +13,10 @@
         "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/subjects.json",
         "Version": 1
     },
+    "DefaultSettingsSource":{
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/settings.json",
+        "Version": 1
+    },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/policy.json",
         "Version": 1

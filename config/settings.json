@@ -1,0 +1,1137 @@
+{
+    "IsMainWindowVisible": true,
+    "IsWelcomeWindowShowed": true,
+    "SettingsOverlay": {},
+    "WeatherLongitude": 109.0526,
+    "WeatherLatitude": 32.6847,
+    "WeatherLocationSource": 1,
+    "AutoRefreshWeatherLocation": true,
+    "SingleWeekStartTime": "2025-03-04T10:03:34.1896706+08:00",
+    "MultiWeekRotationOffset": [
+        -1,
+        -1,
+        0,
+        0,
+        0
+    ],
+    "ClassPrepareNotifySeconds": 60,
+    "IsClassPrepareNotificationEnabled": true,
+    "MiniInfoProviderSettings": {},
+    "SelectedMiniInfoProvider": "d9fc55d6-8061-4c21-b521-6b0532ff735f",
+    "ShowDate": true,
+    "HideOnClass": false,
+    "IsClassChangingNotificationEnabled": true,
+    "IsClassOffNotificationEnabled": true,
+    "HideMode": 0,
+    "HiedRules": {
+        "Mode": 0,
+        "IsReversed": false,
+        "Groups": [
+            {
+                "Rules": [
+                    {
+                        "IsReversed": false,
+                        "Id": "",
+                        "Settings": null,
+                        "IsActive": false
+                    }
+                ],
+                "Mode": 1,
+                "IsReversed": false,
+                "IsEnabled": true,
+                "IsActive": false
+            }
+        ],
+        "IsActive": false
+    },
+    "HideOnFullscreen": false,
+    "ExcludedFullscreenWindow": [
+        "explorer"
+    ],
+    "HideOnMaxWindow": false,
+    "IsReportingEnabled": true,
+    "TaskBarIconClickBehavior": 0,
+    "ShowExtraInfoOnTimePoint": true,
+    "ExtraInfoType": 0,
+    "IsCountdownEnabled": true,
+    "CountdownSeconds": 60,
+    "ExtraInfo4ShowSecondsSeconds": 300,
+    "ScheduleSpacing": 1,
+    "ShowCurrentLessonOnlyOnClass": false,
+    "IsNonExactCountdownEnabled": false,
+    "DefaultOnClassTimePointMinutes": 40,
+    "DefaultBreakingTimePointMinutes": 10,
+    "IsSplashEnabled": true,
+    "SplashCustomText": "\u5E94\u7528\u7A0B\u5E8F\u521D\u59CB\u5316......",
+    "SplashCustomLogoSource": "C:\\EasiNoteStart\\logo1.png",
+    "ExactTimeServer": "pool.ntp.org",
+    "IsExactTimeEnabled": true,
+    "TimeOffsetSeconds": 0,
+    "IsTimeAutoAdjustEnabled": false,
+    "TimeAutoAdjustSeconds": 0,
+    "LastTimeAdjustDateTime": "2025-04-10T00:00:00+08:00",
+    "IsTransientDisabled": false,
+    "IsWaitForTransientDisabled": true,
+    "IsCriticalSafeMode": true,
+    "ShowDetailedStatusOnSplash": true,
+    "CriticalSafeModeMethod": 1,
+    "Theme": 1,
+    "PrimaryColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 0,
+        "G": 191,
+        "B": 255,
+        "ScA": 1,
+        "ScR": 0,
+        "ScG": 0.5209956,
+        "ScB": 1
+    },
+    "SecondaryColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 127,
+        "G": 255,
+        "B": 212,
+        "ScA": 1,
+        "ScR": 0.21223076,
+        "ScG": 1,
+        "ScB": 0.65837485
+    },
+    "ColorSource": 1,
+    "WallpaperColorPlatte": [
+        {
+            "ColorContext": null,
+            "A": 255,
+            "R": 0,
+            "G": 132,
+            "B": 204,
+            "ScA": 1,
+            "ScR": 0,
+            "ScG": 0.23074007,
+            "ScB": 0.60382736
+        },
+        {
+            "ColorContext": null,
+            "A": 255,
+            "R": 20,
+            "G": 125,
+            "B": 181,
+            "ScA": 1,
+            "ScR": 0.0069954107,
+            "ScG": 0.20507874,
+            "ScB": 0.46207702
+        },
+        {
+            "ColorContext": null,
+            "A": 255,
+            "R": 7,
+            "G": 126,
+            "B": 195,
+            "ScA": 1,
+            "ScR": 0.0021246888,
+            "ScG": 0.20863687,
+            "ScB": 0.5457245
+        },
+        {
+            "ColorContext": null,
+            "A": 255,
+            "R": 38,
+            "G": 122,
+            "B": 169,
+            "ScA": 1,
+            "ScR": 0.019382363,
+            "ScG": 0.19461784,
+            "ScB": 0.39675525
+        },
+        {
+            "ColorContext": null,
+            "A": 255,
+            "R": 144,
+            "G": 207,
+            "B": 241,
+            "ScA": 1,
+            "ScR": 0.2788943,
+            "ScG": 0.62396044,
+            "ScB": 0.8796224
+        }
+    ],
+    "SelectedPlatteIndex": 0,
+    "IsWallpaperAutoUpdateEnabled": false,
+    "WallpaperAutoUpdateIntervalSeconds": 60,
+    "WallpaperClassName": "",
+    "IsFallbackModeEnabled": true,
+    "UseExperimentColorPickingMethod": false,
+    "TargetLightValue": 0.6,
+    "IsCustomBackgroundColorEnabled": false,
+    "BackgroundColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "ScA": 1,
+        "ScR": 0,
+        "ScG": 0,
+        "ScB": 0
+    },
+    "Opacity": 0.7000000000000001,
+    "Scale": 1,
+    "MainWindowFont": "Maple Mono NF CN",
+    "MainWindowFontWeight2": 700,
+    "RadiusX": 10,
+    "RadiusY": 0,
+    "MainWindowSecondaryFontSize": 14,
+    "MainWindowBodyFontSize": 16,
+    "MainWindowEmphasizedFontSize": 16,
+    "MainWindowLargeFontSize": 20,
+    "IsCustomForegroundColorEnabled": false,
+    "CustomForegroundColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 30,
+        "G": 144,
+        "B": 255,
+        "ScA": 1,
+        "ScR": 0.0129830325,
+        "ScG": 0.2788943,
+        "ScB": 1
+    },
+    "MainWindowLineVerticalMargin": 5,
+    "CurrentComponentConfig": "Default",
+    "IsNotificationEnabled": true,
+    "NotificationProvidersEnableStates": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": true,
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
+        "7625de96-38aa-4b71-b478-3f156dd9458d": true,
+        "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": true,
+        "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": true,
+        "0117fb4f-5374-434a-97fb-4f5374634a07": true
+    },
+    "NotificationProvidersPriority": [
+        "4b12f124-8585-43c7-afc5-7bbb7cbe60d6",
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
+        "7625de96-38aa-4b71-b478-3f156dd9458d",
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
+        "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37",
+        "0117fb4f-5374-434a-97fb-4f5374634a07"
+    ],
+    "NotificationProvidersSettings": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+            "IsClassOnNotificationEnabled": true,
+            "IsClassOnPreparingNotificationEnabled": true,
+            "IsClassOffNotificationEnabled": true,
+            "InDoorClassPreparingDeltaTime": 14,
+            "OutDoorClassPreparingDeltaTime": 60,
+            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+            "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+            "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+            "ClassOnMaskText": "\u4E0A\u8BFE",
+            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+            "ClassOffOverlayText": "",
+            "IsSpeechEnabledOnClassPreparing": true,
+            "IsSpeechEnabledOnClassOn": true,
+            "IsSpeechEnabledOnClassOff": false,
+            "ShowTeacherName": false,
+            "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+            "IsEnabled": false,
+            "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+            "IsActive": false
+        },
+        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+            "AlertShowMode": 1,
+            "ForecastShowMode": 1,
+            "IsAlertEnabled": true,
+            "IsForecastEnabled": true,
+            "WeatherAlertSpeed": 7,
+            "IsActive": false
+        },
+        "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
+        "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": null,
+        "0117fb4f-5374-434a-97fb-4f5374634a07": null
+    },
+    "NotificationProvidersNotifySettings": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": false,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": false,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": false,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": false,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        },
+        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": false,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": false,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        },
+        "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": false,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": false,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        },
+        "9b570bf1-9a32-40c0-9d5d-4ffa69e03a37": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": true,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": true,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        },
+        "0117fb4f-5374-434a-97fb-4f5374634a07": {
+            "IsNotificationEnabled": true,
+            "IsSpeechEnabled": false,
+            "IsNotificationEffectEnabled": true,
+            "IsNotificationSoundEnabled": false,
+            "NotificationSoundPath": "",
+            "IsNotificationTopmostEnabled": false,
+            "IsSettingsEnabled": false,
+            "IsActive": false
+        }
+    },
+    "IsSystemSpeechSystemExist": true,
+    "IsNetworkConnect": true,
+    "IsSpeechEnabled": true,
+    "SpeechVolume": 1,
+    "SpeechSource": 1,
+    "EdgeTtsVoiceName": "zh-CN-XiaoxiaoNeural",
+    "IsNotificationEffectEnabled": true,
+    "IsNotificationSoundEnabled": true,
+    "NotificationSoundPath": "",
+    "IsNotificationTopmostEnabled": true,
+    "NotificationEffectRenderingScale": 1,
+    "IsNotificationEffectRenderingScaleAutoSet": true,
+    "IsNotificationSpeechEnabled": true,
+    "AllowNotificationSpeech": false,
+    "AllowNotificationEffect": true,
+    "AllowNotificationSound": true,
+    "AllowNotificationTopmost": true,
+    "NotificationSoundVolume": 1,
+    "NotificationSpeechCustomSmgTokenSource": "",
+    "GptSoVitsSpeechSettings": {
+        "PresetName": "\u65B0\u9884\u8BBE",
+        "IsInternal": false,
+        "GptSoVitsServerIp": "127.0.0.1",
+        "GptSoVitsPort": "8000",
+        "GptSoVitsVoiceName": "your_voice_name",
+        "GptSoVitsTextLang": "zh",
+        "GptSoVitsRefAudioPath": "archive_jingyuan_1.wav",
+        "GptSoVitsPromptLang": "zh",
+        "GptSoVitsPromptText": "\u6211\u662F\u300C\u7F57\u6D6E\u300D\u4E91\u9A91\u5C06\u519B\u666F\u5143\u3002\u4E0D\u5FC5\u62D8\u8C28\uFF0C\u300C\u5C06\u519B\u300D\u53EA\u662F\u4E00\u65F6\u7684\u8EAB\u4EFD\uFF0C\u4F60\u79F0\u547C\u6211\u666F\u5143\u4FBF\u53EF",
+        "GptSoVitsTextSplitMethod": "cut5",
+        "GptSoVitsBatchSize": 1
+    },
+    "NotificationUseStandaloneEffectUiThread": true,
+    "IsAutomationEnabled": true,
+    "CurrentAutomationConfig": "Default",
+    "IsAutomationWarningVisible": false,
+    "UpdateMode": 3,
+    "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
+    "LastCheckUpdateTime": "2025-04-10T09:06:48.3468848+08:00",
+    "LastUpdateStatus": 0,
+    "AutoInstallUpdateNextStartup": true,
+    "SpeedTestResults": {
+        "main": {
+            "Delay": 35,
+            "CanConnect": true,
+            "IsTested": true,
+            "IsTesting": false,
+            "IsDelayUnclear": false,
+            "IsActive": false
+        },
+        "github-origin": {
+            "Delay": 145,
+            "CanConnect": true,
+            "IsTested": true,
+            "IsTesting": false,
+            "IsDelayUnclear": false,
+            "IsActive": false
+        }
+    },
+    "IsAutoSelectUpgradeMirror": true,
+    "LastSpeedTest": "2025-04-07T14:03:53.4717986+08:00",
+    "LastUpdateSourceKind": 2,
+    "UpdateReleaseInfo": "",
+    "UpdateDownloadUrl": "",
+    "UpdateVersion": "0.0",
+    "UpdateArtifactHash": "63418ABCC165921FE896A10D9FC35D5C58E83225796B29CD890BE870D37C462D",
+    "SelectedUpdateMirrorV2": "main",
+    "SelectedUpdateChannelV2": "stable",
+    "WindowDockingLocation": 1,
+    "IsIgnoreWorkAreaEnabled": true,
+    "WindowDockingOffsetX": 0,
+    "WindowDockingOffsetY": 0,
+    "WindowDockingMonitorIndex": 0,
+    "WindowLayer": 1,
+    "IsMouseClickingEnabled": false,
+    "UseRawInput": false,
+    "IsMouseInFadingEnabled": true,
+    "IsMouseInFadingReversed": false,
+    "TouchInFadingDurationMs": 0,
+    "IsCompatibleWindowTransparentEnabled": false,
+    "LastWeatherInfo": {
+        "current": {
+            "feelsLike": {
+                "value": "19",
+                "unit": "\u2103"
+            },
+            "humidity": {
+                "value": "63",
+                "unit": "%"
+            },
+            "pressure": {
+                "value": "976",
+                "unit": "hPa"
+            },
+            "temperature": {
+                "value": "19",
+                "unit": "\u2103"
+            },
+            "visibility": {
+                "value": "",
+                "unit": "km"
+            },
+            "weather": "0",
+            "pubTime": "2025-04-10T09:52:07+08:00",
+            "wind": {
+                "direction": {
+                    "value": "49.0",
+                    "unit": "\u00B0"
+                },
+                "speed": {
+                    "value": "0.0",
+                    "unit": "km/h"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "locationKey": "weathercn:101110711",
+                "alertId": "weathercn:101110711-1744192560000-\u519C\u4E1A\u6C14\u8C61\u98CE\u9669\u9EC4\u8272",
+                "pubTime": "2025-04-09T17:56:00+08:00",
+                "title": "\u6C49\u6EE8\u53D1\u5E03\u519C\u4E1A\u6C14\u8C61\u98CE\u9669\u9EC4\u8272\u9884\u8B66",
+                "type": "\u519C\u4E1A\u6C14\u8C61\u98CE\u9669",
+                "level": "\u9EC4\u8272",
+                "detail": "\u9655\u897F\u7701\u6C14\u8C61\u5C40\u4E0E\u9655\u897F\u7701\u519C\u4E1A\u519C\u6751\u53854\u67089\u65E517\u65F640\u5206\u8054\u5408\u53D1\u5E03\u82F9\u679C\u4F4E\u6E29\u51BB\u5BB3\u98CE\u9669\u9884\u8B66\uFF1A\u9884\u8BA14\u670811\u65E523\u65F6\u81F312\u65E508\u65F6\u548C13\u65E500\u65F6-08\u65F6\u9655\u5317\u3001\u5173\u4E2D\u5317\u90E8\u5C40\u5730\u6700\u4F4E\u6C14\u6E29\u5C06\u4F4E\u4E8E-2\u2103\u3002\u6986\u6797\u4E1C\u5357\u90E8\uFF08\u7EE5\u5FB7\u3001\u7C73\u8102\u3001\u4F73\u53BF\u3001\u5434\u5821\u3001\u6E05\u6DA7\u3001\u5B50\u6D32\uFF09\u548C\u5EF6\u5B89\u897F\u5317\u90E8\uFF08\u5FD7\u4E39\u3001\u5434\u8D77\u3001\u7518\u6CC9\u3001\u5B89\u585E\u3001\u5B50\u957F\u3001\u5B9D\u5854\uFF09\u82F9\u679C\u5904\u4E8E\u82BD\u5F00\u7EFD\u81F3\u82B1\u5E8F\u4F38\u957F\u671F\uFF0C\u5EF6\u5B89\u5357\u90E8\uFF08\u9EC4\u9F99\u3001\u6D1B\u5DDD\u3001\u9EC4\u9675\u3001\u5BCC\u53BF\uFF09\u3001\u54B8\u9633\u65EC\u9091\u548C\u94DC\u5DDD\u5B9C\u541B\u82F9\u679C\u5904\u4E8E\u9732\u7EA2\u81F3\u82B1\u5E8F\u5206\u79BB\u671F\uFF0C\u4F4E\u6E29\u51BB\u5BB3\u98CE\u9669\u8F83\u9AD8\uFF08\u9EC4\u8272\u9884\u8B66\uFF09\u3002\u5EFA\u8BAE\u4E0A\u8FF0\u533A\u57DF\u5728\u964D\u6E29\u524D\u91C7\u53D6\u704C\u6C34\u3001\u718F\u70DF\u6216\u55B7\u65BD\u9632\u51BB\u5242\u7B49\u65B9\u5F0F\u589E\u5F3A\u679C\u6811\u6297\u5BD2\u80FD\u529B\uFF0C\u51CF\u8F7B\u4F4E\u6E29\u51BB\u5BB3\u5F71\u54CD\u3002",
+                "images": {
+                    "icon": "http://f4.market.mi-img.com/download/Weather/072013febeb1944da85649e5e547ec5a8284816a2/a.webp",
+                    "notice": "http://f4.market.xiaomi.com/download/Weather/0c97450738e5b4975b9d6046563c52ee5c23f22b0/a.webp"
+                },
+                "IsDefaultIcon": 1
+            }
+        ],
+        "updateTime": 1744250100425,
+        "forecastDaily": {
+            "precipitationProbability": {
+                "value": [
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            "temperature": {
+                "value": [
+                    {
+                        "from": "32",
+                        "to": "14"
+                    },
+                    {
+                        "from": "30",
+                        "to": "11"
+                    },
+                    {
+                        "from": "22",
+                        "to": "9"
+                    },
+                    {
+                        "from": "32",
+                        "to": "13"
+                    },
+                    {
+                        "from": "32",
+                        "to": "10"
+                    },
+                    {
+                        "from": "25",
+                        "to": "12"
+                    },
+                    {
+                        "from": "33",
+                        "to": "12"
+                    },
+                    {
+                        "from": "34",
+                        "to": "13"
+                    },
+                    {
+                        "from": "32",
+                        "to": "17"
+                    },
+                    {
+                        "from": "28",
+                        "to": "9"
+                    },
+                    {
+                        "from": "30",
+                        "to": "11"
+                    },
+                    {
+                        "from": "33",
+                        "to": "15"
+                    },
+                    {
+                        "from": "35",
+                        "to": "15"
+                    },
+                    {
+                        "from": "23",
+                        "to": "7"
+                    },
+                    {
+                        "from": "16",
+                        "to": "6"
+                    }
+                ]
+            },
+            "weather": {
+                "value": [
+                    {
+                        "from": "7",
+                        "to": "1"
+                    },
+                    {
+                        "from": "2",
+                        "to": "2"
+                    },
+                    {
+                        "from": "1",
+                        "to": "1"
+                    },
+                    {
+                        "from": "0",
+                        "to": "0"
+                    },
+                    {
+                        "from": "0",
+                        "to": "1"
+                    },
+                    {
+                        "from": "7",
+                        "to": "1"
+                    },
+                    {
+                        "from": "1",
+                        "to": "2"
+                    },
+                    {
+                        "from": "0",
+                        "to": "0"
+                    },
+                    {
+                        "from": "0",
+                        "to": "2"
+                    },
+                    {
+                        "from": "7",
+                        "to": "2"
+                    },
+                    {
+                        "from": "0",
+                        "to": "2"
+                    },
+                    {
+                        "from": "2",
+                        "to": "2"
+                    },
+                    {
+                        "from": "2",
+                        "to": "7"
+                    },
+                    {
+                        "from": "7",
+                        "to": "7"
+                    },
+                    {
+                        "from": "7",
+                        "to": "7"
+                    }
+                ]
+            },
+            "sunRiseSet": {
+                "value": [
+                    {
+                        "from": "2025-04-10T06:22:00\u002B08:00",
+                        "to": "2025-04-10T19:10:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-11T06:21:00\u002B08:00",
+                        "to": "2025-04-11T19:11:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-12T06:20:00\u002B08:00",
+                        "to": "2025-04-12T19:11:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-13T06:19:00\u002B08:00",
+                        "to": "2025-04-13T19:12:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-14T06:17:00\u002B08:00",
+                        "to": "2025-04-14T19:13:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-15T06:16:00\u002B08:00",
+                        "to": "2025-04-15T19:13:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-16T06:15:00\u002B08:00",
+                        "to": "2025-04-16T19:14:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-17T06:14:00\u002B08:00",
+                        "to": "2025-04-17T19:15:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-18T06:13:00\u002B08:00",
+                        "to": "2025-04-18T19:16:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-19T06:11:00\u002B08:00",
+                        "to": "2025-04-19T19:16:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-20T06:10:00\u002B08:00",
+                        "to": "2025-04-20T19:17:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-21T06:09:00\u002B08:00",
+                        "to": "2025-04-21T19:18:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-22T06:08:00\u002B08:00",
+                        "to": "2025-04-22T19:18:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-23T06:07:00\u002B08:00",
+                        "to": "2025-04-23T19:19:00\u002B08:00"
+                    },
+                    {
+                        "from": "2025-04-24T06:06:00\u002B08:00",
+                        "to": "2025-04-24T19:20:00\u002B08:00"
+                    }
+                ]
+            }
+        },
+        "forecastHourly": {
+            "temperature": {
+                "value": [
+                    19,
+                    21,
+                    23,
+                    25,
+                    27,
+                    29,
+                    30,
+                    32,
+                    30,
+                    28,
+                    26,
+                    25,
+                    23,
+                    22,
+                    21,
+                    20,
+                    19,
+                    19,
+                    18,
+                    18,
+                    18,
+                    18,
+                    18
+                ]
+            },
+            "weather": {
+                "value": [
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        "minutely": {
+            "precipitation": {
+                "value": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        "aqi": {
+            "aqi": "46"
+        }
+    },
+    "CityId": "weathercn:101110711",
+    "CityName": "\u6C49\u6EE8 (\u5B89\u5EB7, \u9655\u897F, \u4E2D\u56FD)",
+    "ExcludedWeatherAlerts": [],
+    "ExpIsExcelImportEnabled": false,
+    "ExpAllowEditingActivatedTimeLayout": false,
+    "DiagnosticFirstLaunchTime": "2025-03-04T10:03:34.1897353+08:00",
+    "DiagnosticStartupCount": 143,
+    "DiagnosticCrashCount": 0,
+    "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
+    "DiagnosticMemoryKillCount": 0,
+    "DiagnosticLastMemoryKillTime": "2025-03-04T10:03:34.1897353+08:00",
+    "IsAutoBackupEnabled": true,
+    "LastAutoBackupTime": "2025-04-10T06:56:08.5472634+08:00",
+    "AutoBackupLimit": 12,
+    "AutoBackupIntervalDays": 1,
+    "OfficialIndexMirrors": {
+        "github": "https://github.com",
+        "ghproxy": "https://ghfast.top/https://github.com",
+        "moeyy": "https://github.moeyy.xyz/https://github.com"
+    },
+    "OfficialSelectedMirror": "ghproxy",
+    "PluginIndexes": [],
+    "LastRefreshPluginSourceTime": "2025-04-08T09:02:41.5112183+08:00",
+    "IsPluginMarketWarningVisible": false,
+    "IsDebugEnabled": false,
+    "IsDebugOptionsEnabled": false,
+    "IsMainWindowDebugEnabled": false,
+    "DebugAnimationScale": 1,
+    "TimeLayoutEditorIndex": 1,
+    "IsDebugConsoleEnabled": false,
+    "DebugGitHubAuthKey": "",
+    "ContributorsCache": {
+        "Contributors": [
+            {
+                "Name": "HelloWRC",
+                "avatar_url": "https://avatars.githubusercontent.com/u/55006226?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/55006226?v=4",
+                "Contributions": [
+                    "code",
+                    "design",
+                    "doc",
+                    "ideas",
+                    "maintenance"
+                ],
+                "ContributionText": "\u4EE3\u7801\uFF0C\u8BBE\u8BA1\uFF0C\u6587\u6863\uFF0C\u521B\u610F \u0026 \u7B56\u5212\uFF0C\u7EF4\u62A4",
+                "IsActive": false
+            },
+            {
+                "Name": "Doctor-yoi",
+                "avatar_url": "https://avatars.githubusercontent.com/u/106463935?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/106463935?v=4",
+                "Contributions": [
+                    "code",
+                    "question"
+                ],
+                "ContributionText": "\u4EE3\u7801\uFF0C\u56DE\u7B54\u95EE\u9898",
+                "IsActive": false
+            },
+            {
+                "Name": "\u59DC\u80E4",
+                "avatar_url": "https://avatars.githubusercontent.com/u/106649516?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/106649516?v=4",
+                "Contributions": [
+                    "doc",
+                    "ideas",
+                    "bug"
+                ],
+                "ContributionText": "\u6587\u6863\uFF0C\u521B\u610F \u0026 \u7B56\u5212\uFF0CBug \u53CD\u9988",
+                "IsActive": false
+            },
+            {
+                "Name": "fossabot",
+                "avatar_url": "https://avatars.githubusercontent.com/u/29791463?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/29791463?v=4",
+                "Contributions": [
+                    "infra"
+                ],
+                "ContributionText": "\u57FA\u7840\u8BBE\u65BD",
+                "IsActive": false
+            },
+            {
+                "Name": "All Contributors",
+                "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/46410174?v=4",
+                "Contributions": [
+                    "doc"
+                ],
+                "ContributionText": "\u6587\u6863",
+                "IsActive": false
+            },
+            {
+                "Name": "DSZDev",
+                "avatar_url": "https://avatars.githubusercontent.com/u/88492699?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/88492699?v=4",
+                "Contributions": [
+                    "doc"
+                ],
+                "ContributionText": "\u6587\u6863",
+                "IsActive": false
+            },
+            {
+                "Name": "\u6D41\u7130xwx",
+                "avatar_url": "https://avatars.githubusercontent.com/u/66517348?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/66517348?v=4",
+                "Contributions": [
+                    "doc",
+                    "code"
+                ],
+                "ContributionText": "\u6587\u6863\uFF0C\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "\u56E2\u5B50",
+                "avatar_url": "https://avatars.githubusercontent.com/u/46892455?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/46892455?v=4",
+                "Contributions": [
+                    "example"
+                ],
+                "ContributionText": "\u8303\u4F8B",
+                "IsActive": false
+            },
+            {
+                "Name": "\u5415\u749F\u8FB0",
+                "avatar_url": "https://avatars.githubusercontent.com/u/170245818?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/170245818?v=4",
+                "Contributions": [
+                    "doc",
+                    "promotion"
+                ],
+                "ContributionText": "\u6587\u6863\uFF0C\u63A8\u5E7F",
+                "IsActive": false
+            },
+            {
+                "Name": "jizilin6732",
+                "avatar_url": "https://avatars.githubusercontent.com/u/162853646?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/162853646?v=4",
+                "Contributions": [
+                    "doc"
+                ],
+                "ContributionText": "\u6587\u6863",
+                "IsActive": false
+            },
+            {
+                "Name": "clover_yan",
+                "avatar_url": "https://avatars.githubusercontent.com/u/56215525?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/56215525?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "\u5E72\u51B0DryIce",
+                "avatar_url": "https://avatars.githubusercontent.com/u/165131008?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/165131008?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "RoboMico",
+                "avatar_url": "https://avatars.githubusercontent.com/u/59791306?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/59791306?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "user111192",
+                "avatar_url": "https://avatars.githubusercontent.com/u/67212831?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/67212831?v=4",
+                "Contributions": [
+                    "example"
+                ],
+                "ContributionText": "\u8303\u4F8B",
+                "IsActive": false
+            },
+            {
+                "Name": "\u96F6\u97F3LyRin",
+                "avatar_url": "https://avatars.githubusercontent.com/u/141834038?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/141834038?v=4",
+                "Contributions": [
+                    "doc",
+                    "promotion"
+                ],
+                "ContributionText": "\u6587\u6863\uFF0C\u63A8\u5E7F",
+                "IsActive": false
+            },
+            {
+                "Name": "LiPolymer",
+                "avatar_url": "https://avatars.githubusercontent.com/u/110595296?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/110595296?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "Amiya",
+                "avatar_url": "https://avatars.githubusercontent.com/u/53519310?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/53519310?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "Enzo Wu",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44547885?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/44547885?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "itsHenry",
+                "avatar_url": "https://avatars.githubusercontent.com/u/58730749?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/58730749?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "\u661F\u6F9C\u66E6\u5149",
+                "avatar_url": "https://avatars.githubusercontent.com/u/94750616?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/94750616?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "kaokao221",
+                "avatar_url": "https://avatars.githubusercontent.com/u/88539021?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/88539021?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "\u7231\u73A9\u7535\u8111\u7684WindowsXP",
+                "avatar_url": "https://avatars.githubusercontent.com/u/132193112?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/132193112?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            },
+            {
+                "Name": "DannyFeng",
+                "avatar_url": "https://avatars.githubusercontent.com/u/91676896?v=4",
+                "AvatarUri": "https://avatars.githubusercontent.com/u/91676896?v=4",
+                "Contributions": [
+                    "code"
+                ],
+                "ContributionText": "\u4EE3\u7801",
+                "IsActive": false
+            }
+        ],
+        "IsActive": false
+    },
+    "LastAppVersion": "1.6.1.0",
+    "ShowComponentsMigrateTip": false,
+    "IsMigratedFromv1_4": false,
+    "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
+    "IsSwapMode": true,
+    "ShowEchoCaveWhenSettingsPageLoading": true,
+    "SettingsPagesCachePolicy": 0,
+    "TrustedProfileIds": [
+        "01507a9a-969f-405d-b92f-462c6a9cdc3a",
+        "5b3ddbbd-5187-4f28-abf1-1f8be5e19f10"
+    ],
+    "IsActive": false
+}
