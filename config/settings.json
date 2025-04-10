@@ -64,7 +64,7 @@
     "IsSplashEnabled": true,
     "SplashCustomText": "\u5E94\u7528\u7A0B\u5E8F\u521D\u59CB\u5316......",
     "SplashCustomLogoSource": "C:\\EasiNoteStart\\logo1.png",
-    "ExactTimeServer": "pool.ntp.org",
+    "ExactTimeServer": "ntp.aliyun.com",
     "IsExactTimeEnabled": true,
     "TimeOffsetSeconds": 0,
     "IsTimeAutoAdjustEnabled": false,
