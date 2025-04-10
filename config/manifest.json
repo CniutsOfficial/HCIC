@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "汉滨高级中学CICC管理系统",
+    "OrganizationName": " 汉滨高级中学ClassIsland管理系统 ",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/classplans.json",
         "Version": 2
