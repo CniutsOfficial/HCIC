@@ -1,5 +1,5 @@
 {
     "ManagementServerKind": 0,
     "ManagementServer": "",
-    "ManifestUrlTemplate": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/{id}/manifest.json"
+    "ManifestUrlTemplate": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/manifest.json"
 }
