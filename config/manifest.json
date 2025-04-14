@@ -3,7 +3,7 @@
     "OrganizationName": " 汉滨高级中学ClassIsland管理系统 ",
 
     "PolicySource": {
-        "Value": "https://gist.github.com/CniutsOfficial/6c89d3823af3b95768ed2b4b58c506f1#file-policy-json",
+        "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/policy.json",
         "Version": 2
     }
 }
