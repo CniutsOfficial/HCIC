@@ -4,6 +4,6 @@
 
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/CniutsOfficial/HCIC/main/config/policy.json",
-        "Version": 2
+        "Version": 3
     }
 }
